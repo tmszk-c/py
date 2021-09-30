@@ -1,8 +1,5 @@
 usser_choice  = -1
-
 tasks = []
-
-
 def show_tasks():
     task_index = 0
     for task in tasks:
